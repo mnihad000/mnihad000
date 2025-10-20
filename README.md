@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering student at The City College of New York, passionate about building software applications that have everyday impact and ML/AI.<br><br>Currently grinding Data structures and Algorithms everyday
+I am a Computer Engineering student at The City College of New York, passionate about building software applications that have everyday impact and ML/AI.<br><br>
 
 
 ## 🌐 Socials:
