@@ -3,7 +3,7 @@ I am a Computer Engineering student at The City College of New York, Always iter
 
 <div align="center">
 
-<h2>my portfolio website:</h2>
+<h2>my portfolio website (CLICKABLE):</h2>
 
 <a href="https://mohammed-nihad.vercel.app">
   <img src="./portfolio_image.png" alt="Portfolio Preview" width="1000" />
