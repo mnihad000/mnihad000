@@ -1,6 +1,15 @@
 # 💫 About Me:
-I am a Computer Engineering student at The City College of New York, passionate about building software applications that have everyday impact and ML/AI.<br><br>
+I am a Computer Engineering student at The City College of New York, Always iterating fast and working on shipping new projects.<br><br>
 
+<div align="center">
+
+<h2>my portfolio website:</h2>
+
+<a href="https://mohammed-nihad.vercel.app">
+  <img src="./portfolio_image.png" alt="Portfolio Preview" width="1000" />
+</a>
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nihad-090348263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnihad1107@gmail.com)
